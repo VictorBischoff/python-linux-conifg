@@ -1,1 +1,18 @@
 .DS_Store
+vscode*  .vscode/launch.json
+vscode*  .vscode/settings.json
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+#python cache
+__pycache__/
+
+# env
+.env
